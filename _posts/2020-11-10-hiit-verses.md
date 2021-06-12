@@ -4,26 +4,7 @@ title: "HIIT Verses"
 author: "Anbarasi U"
 categories: poetry
 ---
-
-HIIT verses
-===========
-
-[![Anbarasi U](https://miro.medium.com/fit/c/56/56/0*2UzIC1ybkDScPEWT.jpeg)](/?source=post_page-----1646425b6187--------------------------------)
-
-[
-
-Anbarasi U
-
-](/?source=post_page-----1646425b6187--------------------------------)
-
-[
-
-·Nov 10, 2020
-
-](/hiit-verses-1646425b6187?source=post_page-----1646425b6187--------------------------------)
-
 ![](https://miro.medium.com/max/2040/1*dbgo4inV8o4FD_50GLyMnQ.png)
-
 Dusk is cozying into the dark  
 It’s wintry in a rainy aftermath  
 Brain’s running pattern matching  
@@ -33,8 +14,8 @@ Shoes for running, now I’m wearing
 Stretching myself to warm against  
 The mental map of my running stretch  
 Hopping on foam soles to  
-Warm up for a run in intervals
-
+Warm up for a run in intervals  
+\
 Stomp  
 Trot  
 Jog  
@@ -44,8 +25,8 @@ There are less humans — forward
 There are no humans — turn around  
 Pant  
 Breathe  
-Recover
-
+Recover  
+\
 Stomp  
 Trot  
 Jog  
@@ -55,8 +36,8 @@ A distant bike is revving near — turn around
 Or wait and watch it pull ahead — forward  
 Pant  
 Breathe  
-Recover
-
+Recover  
+\
 Stomp  
 Trot  
 Jog  
@@ -66,15 +47,15 @@ In futile pursuit of a safe course
 Ensconced in thorny vines of hope  
 Pant  
 Breathe  
-Recover
-
+Recover  
+\
 Stomp  
 Trot  
 Jog  
 Tracker states five intervals of anxiety  
 I am crying, this not a world for all  
-Why cannot it be safe for all?
-
+Why cannot it be safe for all?  
+\
 Stomp  
 Trot  
 Jog  
@@ -84,13 +65,13 @@ I am crying, happy, easing as
 Endorphins flush out anxiety  
 Pant  
 Breathe  
-Recover
-
+Recover  
+\
 Finally from the welcome exhaustion  
 Of marking territory with sweat  
 Still shrouded in crowding thoughts  
-Of how do we make it safe for all.
-
-— — — — —
-
+Of how do we make it safe for all.  
+\
+— — — — —  
+\
 Waking up at midnight to wrap memories of my recent interval run of misery in a layer of poetry, or rather to sandwich so-called-poetry into Intervals.
