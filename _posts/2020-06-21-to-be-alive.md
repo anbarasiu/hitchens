@@ -29,4 +29,3 @@ To catch glimpses as the mundane unfolds itself and morphs into matrices of mean
 To wonder about the acuteness of feeling that comes from two weeks of distracting pain and a lingering numbness into chaos.  
 \
 To feel alive, you need to feel dead once in a while.  
-\
