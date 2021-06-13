@@ -22,6 +22,7 @@ icon: /assets/images/icon-512.png
 twitter_username: anbarasiu
 github_username:  anbarasiu
 hide_search: true
+google_analytics: true
 
 # Build settings
 markdown: kramdown
