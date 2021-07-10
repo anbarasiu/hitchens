@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Sotru Kanakku"
-author: "Anbarasi U"
+author: "Anbu"
 categories: translation
 ---
 _English translation of a short story from one of my favourite Tamil literary works,_ [_Aram_](https://www.goodreads.com/en/book/show/17793442) _by Jeyamohan, for all my friends who couldn’t read Tamil, because this is such a beautiful piece of literature._  
