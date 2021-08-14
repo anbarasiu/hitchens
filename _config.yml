@@ -13,9 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: 
-email: 
-description: >- # this means to ignore newlines until "baseurl:"
+site: Lit
+title: Anbarasi's Literary attempts
+tagline: Literary attempts
+description: Anbarasi has some attempts on literary writing, translations and poetry
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 icon: /assets/images/icon-512.png
@@ -25,7 +26,7 @@ hide_search: true
 google_analytics: true
 
 # Build settings
-markdown: kramdown
+markdown: kramdownpswd
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -41,6 +42,7 @@ markdown: kramdown
 
 plugins:
   - jekyll-paginate
+  - jekyll-seo-tag
 
 paginate: 20
 paginate_path: "/page/:num/"
