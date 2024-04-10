@@ -7,7 +7,7 @@ categories: poetry
 
 Sunny day it is  
 "City with the best weather"  
-- Mocks everybody  
+&mdash; Mocks everybody  
 Disregard and snuggle on to  
 The friction of my favourite couch  
 With the spiral-bound text  
