@@ -18,7 +18,7 @@ title: Anbarasi's Literary attempts
 tagline: Literary attempts
 description: Anbarasi has some attempts on literary writing, translations and poetry
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://lit.anbuu.in" # the base hostname & protocol for your site, e.g. http://example.com
 icon: /assets/images/icon-512.png
 twitter_username: anbarasiu
 github_username:  anbarasiu
@@ -43,6 +43,7 @@ markdown: kramdownpswd
 plugins:
   - jekyll-paginate
   - jekyll-seo-tag
+  - jekyll-sitemap
 
 paginate: 20
 paginate_path: "/page/:num/"
